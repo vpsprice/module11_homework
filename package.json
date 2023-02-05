@@ -1,0 +1,25 @@
+{
+  "name": "module11_homework",
+  "version": "1.0.0",
+  "description": "js examples for fast learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vpsprice/module11_homework.git"
+  },
+  "author": "Slava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vpsprice/module11_homework.git"
+  },
+   "devDependencies": {
+    "@babel/core": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "babel-jest": "^26.1.0",
+    "cypress": "^4.10.0",
+    "jest": "^26.1.0"
+  }
+}
